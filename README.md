@@ -3,10 +3,10 @@ Install a list of softwares in a Linux environment.
 
 Usage:
 ```shell
-$./install_softwares.sh -i
+./install_softwares.sh -i
 ```
 or
 ```shell
-$./install_softwares.sh --install
+./install_softwares.sh --install
 ```
 
