@@ -8,5 +8,5 @@ $./install_softwares.sh -i
 or
 ```shell
 $./install_softwares.sh --install
-``
+```
 
